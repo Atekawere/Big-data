@@ -1,0 +1,73 @@
+li{
+    color:green;
+}
+body{
+    background-color: greenyellow;
+    background-repeat:no-repeat;
+    background-size: cover;
+    color:black;
+    margin: 0;
+    
+}
+#home{
+      font-size: x-large;
+      background-image:url("./images/uvw...jpg");
+}
+#about{
+    
+    
+    font-size: x-large;
+}
+#nav>ul>li{
+    display: flex;
+    justify-content: center;
+    padding:8px 16px;
+    text-decoration:none;
+}
+.topnav a{
+margin-left: 14%;
+font-size: 40px;
+}
+.contact{
+    text-align: center;
+    font-size: x-large;
+    
+}
+.about{
+    text-align: center;
+    
+}
+.services{
+    text-align: center;
+    font-size: x-large;}
+
+    
+
+h2, h3, h1{
+    text-align: center;
+}
+.home{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: black;
+}
+li{
+    text-align: center;
+    color: black;
+}
+#contacts{
+    font-size: x-large;
+    background-color: blanchedalmond;
+    
+}
+#image{
+    width:10%;
+    height: 20%
+}
+table{
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+}
