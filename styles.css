@@ -12,7 +12,8 @@ body{
 #home{
       font-size: x-large;
       background-image:url("./images/uvw...jpg");
-      font-family: 'Lakki Reddy', cursive;
+      font-family: 'Fredericka the Great', cursive;
+      color: brown;
 }
 #about{
     
@@ -36,6 +37,7 @@ font-size: 40px;
 }
 .about{
     text-align: center;
+    font-family: 'Dancing Script', cursive;
     
 }
 .services{
@@ -49,19 +51,20 @@ h2, h3, h1{
 }
 .home{
     text-align: center;
+    color: brown;
 }
 p{
     text-align: center;
-    color: black;
+    color: brown;
 }
 li{
     text-align: center;
-    color: black;
+    color:brown;
 }
 #contacts{
     font-size: x-large;
     background-color: blanchedalmond;
-    
+    color: brown;
 }
 #image{
     width:10%;
@@ -71,4 +74,5 @@ table{
     overflow: hidden;
     padding: 0;
     margin: 0;
+    width:1500px;
 }
